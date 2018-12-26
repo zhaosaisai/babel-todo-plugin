@@ -1,0 +1,14 @@
+{
+  "name": "babel-todo-plugin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/zhaosaisai/babel-todo-plugin.git",
+  "author": "zhaosaisai <zhaosaisai@u51.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  },
+  "engines": {
+    "node": ">=8"
+  }
+}
